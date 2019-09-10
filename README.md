@@ -1,2 +1,19 @@
-# keral_models_general_ML
-In this project we will discover how we can use deep learning models from Keras with the scikit-learn library in Python
+<h1>Use Keras Models With Scikit-Learn
+For General Machine Learning</h1>
+
+<p>
+The scikit-learn library is the most popular library for general machine learning in Python.
+In this project we will discover how we can use deep learning models from Keras with the
+scikit-learn library in Python. Primary purpose of this project:
+</p>
+<ul>
+  <li>
+How to wrap a Keras model for use with the scikit-learn machine learning library.
+  </li>
+  <li>
+How to easily evaluate Keras models using cross validation in scikit-learn.
+  </li>
+  <li>
+How to tune Keras model hyperparameters using grid search in scikit-learn
+  </li>
+ </ul>
