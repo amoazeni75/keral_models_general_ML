@@ -18,5 +18,5 @@ How to tune Keras model hyperparameters using grid search in scikit-learn
   </li>
  </ul>
 <h3>Grid Search Deep Learning Model Parameters</h3>
-<p>we use a grid search to evaluate di↵erent configurations for our neural
+<p>we use a grid search to evaluate different configurations for our neural
 network model and report on the combination that provides the best estimated performance</p>
